@@ -1,0 +1,5 @@
+plots/activation:relu_dropout:0.6_numlayer:2_loss:binary_crossentropy_valsize:0.33_lastlayersize:100_lastlayerdrop:0.15 
+ Performance: 0.7732896544899934
+plots/activation:relu_dropout:0.7_numlayer:2_loss:binary_crossentropy_valsize:0.33_lastlayersize:100_lastlayerdrop:0.15 
+ Performance: 0.7740948796816183
+----------
